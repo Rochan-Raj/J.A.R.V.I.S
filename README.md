@@ -62,9 +62,13 @@ In the Third stage, of its development further, I will create its user interface
 •	PIL image (for model_trainer)
 
 •	numpy
+## Demo
+
+
+https://user-images.githubusercontent.com/85439772/189475105-17cec1d1-9c8b-4caf-8083-012e0d42b829.mp4
+
 
 ## Related pics
-
 ![image](https://user-images.githubusercontent.com/85439772/187085645-46f4430c-06e8-42ca-851a-4927b038f674.png)
 
 
